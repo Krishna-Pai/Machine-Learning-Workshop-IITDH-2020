@@ -8,11 +8,11 @@ KLE DR.M S Sheshgiri College of Engineering and Technology
 Belagavi, Karnataka
 
 ## Description:
-These were the exercise programs which were coded by me during the 2 days workshop at Indian Institute of Technology Dharwad.
+These were the exercise programs which were coded by me during the 2 days workshop at Indian Institute of Technology Dharwad.  
 All the programs are coded using Jupyter Notebook.
 
 ## Resource Persons:
 Diginique TechLabs 
 
 ## Organized By:
-Indian Institute of Technology Dharwad 
+Indian Institute of Technology, Dharwad 
