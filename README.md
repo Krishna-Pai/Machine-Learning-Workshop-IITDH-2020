@@ -3,7 +3,7 @@
 
 ## Participant:
 Krishna Pai  
-Department of Electrical and Electronics  
+Department of Electrical and Electronics Engineering  
 KLE DR.M S Sheshgiri College of Engineering and Technology  
 Belagavi, Karnataka
 
